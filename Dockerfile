@@ -1,4 +1,5 @@
 FROM quay.io/jupyter/datascience-notebook
+
 USER root
 
 ARG openjdk_version="17"
